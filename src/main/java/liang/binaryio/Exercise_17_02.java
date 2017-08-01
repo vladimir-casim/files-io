@@ -1,4 +1,4 @@
-package liang.binaryio.ex_17_02;
+package liang.binaryio;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

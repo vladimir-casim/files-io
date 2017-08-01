@@ -1,4 +1,4 @@
-package liang.binaryio.ex_17_07;
+package liang.binaryio;
 
 import liang.binaryio.ex_17_06.Loan;
 

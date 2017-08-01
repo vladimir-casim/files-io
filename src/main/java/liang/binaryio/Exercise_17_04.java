@@ -1,4 +1,4 @@
-package liang.binaryio.ex_17_04;
+package liang.binaryio;
 
 import java.io.*;
 import java.util.Scanner;
